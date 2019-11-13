@@ -1,0 +1,16 @@
+int x,y;
+int y;
+int h;/*hell32o*/
+//hello
+int main();
+int hello;
+int edw;
+int hey();
+int main(){
+    hello = 10000;
+    edw = 0;
+    return 0;
+}
+int hey(){
+    
+}
